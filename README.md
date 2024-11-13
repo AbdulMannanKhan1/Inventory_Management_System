@@ -33,8 +33,8 @@ Author
 Abdul Mannan Khan
 
 Connect with Me:
-LinkedIn: 
-Kaggle: 
-Fiverr: 
+LinkedIn: https://www.linkedin.com/in/abdulmannankhan1/
+Kaggle: https://www.kaggle.com/abdulmannankhan1
+Fiverr: https://www.fiverr.com/abdul_manankhan/
 
 Follow me for more projects and updates!
