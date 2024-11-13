@@ -16,7 +16,7 @@ Technologies Used
 [Framework(s)] (e.g., Django, React)
 [Database] (e.g., MySQL, MongoDB)
 Installation
-Clone repository: git clone https://github.com/AbdulMannanKhan1/Inventory-Manager.git
+Clone repository: git clone https://github.com/AbdulMannanKhan1/Inventory_Management_System.git
 Install dependencies: [list dependencies]
 Run application: [run command]
 Contributing
