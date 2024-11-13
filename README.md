@@ -19,8 +19,11 @@ Technologies Used
 
 
 Installation
+
 Clone repository: git clone https://github.com/AbdulMannanKhan1/Inventory_Management_System.git
+
 Install dependencies: [list dependencies]
+
 Run application: [run command]
 
 Contributing
@@ -34,7 +37,9 @@ Abdul Mannan Khan
 
 Connect with Me:
 LinkedIn: https://www.linkedin.com/in/abdulmannankhan1/
+
 Kaggle: https://www.kaggle.com/abdulmannankhan1
+
 Fiverr: https://www.fiverr.com/abdul_manankhan/
 
 Follow me for more projects and updates!
