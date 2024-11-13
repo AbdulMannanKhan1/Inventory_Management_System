@@ -4,7 +4,7 @@ Inventory Management System
 
 Description
 
-Robust web app for SME inventory management. Includes user authentication, item/supplier management, stock tracking &amp; alerts. Powered by Django, Docker &amp; PostgreSQL for scalability &amp; reliability
+Robust web app for SME inventory management. Includes user authentication, item/supplier management, stock tracking ; alerts. Powered by Django, Docker, PostgreSQL for scalability & reliability
 
 Features
 Product catalog management
